@@ -2,7 +2,8 @@
 
 # Sensible Skyrim
 
-- [Necessary Information](https://github.com/TitansBane/Sensible-Skyrim/blob/main/README.md#necessary-information-beforehand)
+- [Necessary Information](https://github.com/TitansBane/Sensible-Skyrim/blob/main/README.md##necessary-information-beforehand)
+- [Installation](https://github.com/TitansBane/Sensible-Skyrim/blob/main/README.md##installation)
 
 ## Necessary Information Beforehand
 
@@ -27,3 +28,11 @@
 
 ### Wabbajack Installation
 1. Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases) and place the Wabbajack.exe file in a working folder. This folder must NOT be in a common folder like your Desktop, Downloads, or Program Files folder. It's best to create a Wabbajack folder near your drive's root level like C:/Wabbajack.
+2. Open Wabbajack.
+3. Click browse modlists and tick show unofficial lists. Download Sensible Skyrim.
+4. Create two new folders named Sensible Skyrim and Wabbajack Downloads on your preferred root drive.
+5. Change the download and installation paths to the folders created previously. 
+6. Click the Go/Begin button.
+7. Wait for Wabbajack to finish.
+
+If you experience any errors close Wabbajack and run the list again. If the errors still persist post on discord in the help channel for assistance. 
