@@ -5,6 +5,8 @@
 - [Necessary Information](https://github.com/Bredant/Sensible-Skyrim/blob/main/README.md#necessary-information-beforehand)
 - [Installation](https://github.com/Bredant/Sensible-Skyrim/blob/main/README.md#installation)
 - [Starting the Game](https://github.com/Bredant/Sensible-Skyrim/blob/main/README.md#starting-the-game)
+- [Mods to Note](https://github.com/Bredant/Sensible-Skyrim/blob/main/README.md#mods-to-note)
+- [Credits](https://github.com/Bredant/Sensible-Skyrim/blob/main/README.md#credits)
 
 ## Necessary Information Beforehand
 
@@ -78,3 +80,8 @@ Sensible Skyrim enhances gameplay greatly using mods such as:
 - [Cathedral Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/24791)
 
 and many many more! Feel free to leave mod suggestions in our Discord.
+
+## Credits
+1. My brother Kohaku for his invaluable help with all this. 
+2. The creator(s) of Elysium Remastered for inspiring me to create my own modlist. Elysium Remastered is an absolutely amazing modlist in my opinion if you've got the rig to handle it. I can't recommend it enough. More info can be found [here](https://github.com/TitansBane/Elysium-Remastered).
+3. The mod creators. You've taken this game to legendary heights that will never be forgotten. Thank you. 
