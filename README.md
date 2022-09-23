@@ -2,8 +2,8 @@
 
 # Sensible Skyrim
 
-- [Necessary Information](https://github.com/TitansBane/Sensible-Skyrim/blob/main/README.md##necessary-information-beforehand)
-- [Installation](https://github.com/TitansBane/Sensible-Skyrim/blob/main/README.md##installation)
+- [Necessary Information](https://github.com/TitansBane/Sensible-Skyrim/blob/main/README.md#necessary-information-beforehand)
+- [Installation](https://github.com/TitansBane/Sensible-Skyrim/blob/main/README.md#installation)
 
 ## Necessary Information Beforehand
 
