@@ -72,7 +72,6 @@ Sensible Skyrim enhances gameplay greatly using mods such as:
 - [Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194)
 - [Vigilant](https://www.nexusmods.com/skyrimspecialedition/mods/11849)
 - [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565)
-- [Beyond Skyrim : Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/10917)
 - [Inigo](https://www.nexusmods.com/skyrimspecialedition/mods/1461)
 - [Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035)
 - [Immersive World Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/18330)
